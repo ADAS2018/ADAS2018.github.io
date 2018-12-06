@@ -106,4 +106,4 @@ friends: [
         href: "http://zhihu.com"
     }
 ]
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
