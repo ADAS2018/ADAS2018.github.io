@@ -1,31 +1,27 @@
-金融科技部数据集市
-======================
+# 企业数据查询服务列表
 
-## 数据服务列表
+- [企业基本信息查询](#企业基本信息查询)
 
-- [企业基本信息查询类](#installation)
-    - [工商基本信息](#typo3-extension-repository)
+    - [工商基本信息](##工商基本信息)
     - [企业年报信息](#composer)
     - [企业对外投资信息](#)
-- [企业详细信息查询类](#typo3-setup)
-    - [Extension](#extension)
-    - [Database](#database)
-- [Page setup](#page-setup)
-    - [Upload the page tree file](#upload-the-page-tree-file)
-    - [Go to the import view](#go-to-the-import-view)
-    - [Import the uploaded page tree file](#import-the-uploaded-page-tree-file)
+    - [企业知识产权信息](#)
+
+- [企业司法信息查询](#typo3-setup)
+
+    - [开庭公告](#extension)
+    - [法院公告](#database)
+    - [法院判决信息](#database)
+    - [被执行人信息](#database)
+    - [失信被执行人信息](#database)
+
+- [企业综合信息查询](#typo3-setup)
+
 - [License](#license)
+
 - [Links](#links)
 
-## Installation
+# 企业基本信息查询
+## 工商基本信息
+工商注册信息 -基本信息：企业名称/曾用名/工商注册号/组织机构代码/统一信用代码/企业类型/行业/营业期限自/营业期限至/核准日期/经营状态/登记机关/注册地址/省份/法定代表人/注册资本/注册币种/公司官网/公司邮箱/公司电话/经营范围 ；股东及出资情况：股东名称/股东类型/认缴出资方式/认缴出资额/认缴出资日期/公示日期/持股比例 ；主要管理人员：姓名/职位；历史沿革：变更日期/变更事项/变更前内容/变更后内容 ；分支机构：企业名称/统一社会信用代码/登记机关/登记状态/注册时间/链接；
 
-The Aimeos TYPO3 extension is licensed under the terms of the GPL Open Source
-license and is available for free.
-
-## Links
-
-* [Web site](https://aimeos.org/integrations/typo3-shop-extension/)
-* [Documentation](https://aimeos.org/docs/TYPO3)
-* [Forum](https://aimeos.org/help/typo3-extension-f16/)
-* [Issue tracker](https://github.com/aimeos/aimeos-typo3/issues)
-* [Source code](https://github.com/aimeos/aimeos-typo3)
