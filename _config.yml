@@ -1,10 +1,9 @@
 # Site settings
 title: 金融科技部
-SEOTitle: 金融科技部数据集市
+SEOTitle: ADAS金融科技部
 header-img: img/fintech2.jpg
 description: ""
-keyword: "徐公利, soaringsoul, 夜雨微寒,数据分析,机器学习,互联网, Web, Python, JavaScript"
-url: "https://adas2018.github.io"              # your host, for absolute URL
+url: "https://adasfintech.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -76,9 +75,9 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "要有最朴素的生活与最遥远的梦想<br>即使明日天寒地冻、路远马亡"
-sidebar-avatar: /img/icon_psd/little_prince512.png    # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar_about:  /img/icon_psd/little_prince512.png
+sidebar-about-description: ""
+sidebar-avatar: /img/adas.png    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar_about:  /img/adas.png
 
 
 # Featured Tags
