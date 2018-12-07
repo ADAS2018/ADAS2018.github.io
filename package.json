@@ -1,14 +1,14 @@
 {
-    "name": "",
-    "title": "",
-    "author": "",
+    "name": "hux-blog",
+    "title": "Hux Blog",
+    "author": "Hux <huxpro@gmail.com>",
     "version": "1.7.0",
-    "homepage": "",
+    "homepage": "http://huxpro.github.io",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Huxpro/huxpro.github.io"
     },
-    "bugs": "s",
+    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
