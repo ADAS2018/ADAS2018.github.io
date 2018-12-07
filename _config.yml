@@ -1,10 +1,10 @@
 # Site settings
-title: 夜雨微寒
-SEOTitle: 夜雨微寒的博客 | soaringsoul's blog
-header-img: img/background/index.jpg
-description: "在数据产品经理道路上马不停蹄的数据分析师 | 徐公利，DataScience& Computer Technology Lover，Pythoner，Data Analyst | 这里是 @徐公利 的个人博客，与你一起探索数据科学。"
+title: 金融科技部
+SEOTitle: 金融科技部数据集市
+header-img: img/fintech2.jpg
+description: ""
 keyword: "徐公利, soaringsoul, 夜雨微寒,数据分析,机器学习,互联网, Web, Python, JavaScript"
-url: "https://xugongli.github.io"              # your host, for absolute URL
+url: "https://adas2018.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,8 +13,8 @@ future: true
 # SNS settings
 RSS: false
 # weibo_username:     huxpro
-zhihu_username:     yywh
-github_username:    xugongli
+# zhihu_username:     yywh
+# github_username:    xugongli
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -106,4 +106,4 @@ friends: [
         href: "http://zhihu.com"
     }
 ]
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
