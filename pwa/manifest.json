@@ -3,11 +3,11 @@
   "short_name": "数喆数据",
   "description": "About an data engineer & PM who loves data.",
   "icons": [{
-    "src": "icons/adas_design.png",
+    "src": "icons/little_prince128.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/adas_design.png",
+    "src": "icons/little_prince512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
