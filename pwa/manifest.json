@@ -1,14 +1,14 @@
 {
-  "name": "夜雨微寒",
-  "short_name": "夜雨微寒",
-  "description": "About an data engineer & PM who loves data.",
+  "name": "数喆数据",
+  "short_name": "数喆数据",
+  "description": "专注数据，共享价值",
   "icons": [{
-    "src": "icons/little_prince128.png",
-    "sizes": "128x128",
+    "src": "icons/adas512.png",
+    "sizes": "512x165",
     "type": "image/png"
   }, {
-    "src": "icons/little_prince512.png",
-    "sizes": "512x512",
+    "src": "icons/adas512.png",
+    "sizes": "512x165",
     "type": "image/png"
   }],
   "background_color": "#faaaaa",
