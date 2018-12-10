@@ -8,6 +8,7 @@ header-img: "img/iphone.jpg"
 catalog: true
 tags:
     - 商户通
+typora-root-url: ..
 ---
 
 
@@ -33,7 +34,8 @@ tags:
 
   * 若确认手机是个人类型的手机号，则尝试重新进行认证，若仍认证失败，点击`下一步`按钮下的`认证失败？请点这里`再次进行认证。
 
+    ![sgt_mobile](/img/shanghutong/sgt_mobile.jpg)
+
   * 如果仍认证失败，请联系我们的客服人员。
 
-    ![/img/shanghutong/sgt_mobile.jpg)
 
