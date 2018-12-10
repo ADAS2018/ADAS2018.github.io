@@ -37,12 +37,3 @@ tags:
 
     ![sgt_mobile](G:\AdasFinTech.github.io\img\shanghutong\sgt_mobile.jpg)
 
-## Q: I can't use the import feature for uploading a JSON file! The window keeps closing when I try to select a file!
-
-* **Cause**: This is a known bug in Google Chrome / Firefox that appears in Ubuntu and some Windows builds.
-* **Solution**: 
-  * For Google Chrome: A good workaround is to open the extension url, chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/popup.html, directly in a new tab and import through the tab.
-  * For Firefox:
-    1. Open `about:debugging` in a new tab
-    2. Scroll down and find the Metamask {Internal UUID} (e.g. 12324c61-abc2-4922-a325-012697643ff5)
-    3. Open `moz-extension://{Internal UUID}/popup.html` in a new tab and import through the tab
