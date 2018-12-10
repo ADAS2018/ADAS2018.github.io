@@ -18,7 +18,7 @@ tags:
 
 ## 常见问题1: 移动运营商无法认证
 
-![mobile_authenticate](G:\AdasFinTech.github.io\img\shanghutong\mobile_authenticate.png)
+![mobile_authenticate](/img/shanghutong/mobile_authenticate.png)
 
 
 
@@ -35,5 +35,5 @@ tags:
 
   * 如果仍认证失败，请联系我们的客服人员。
 
-    ![sgt_mobile](G:\AdasFinTech.github.io\img\shanghutong\sgt_mobile.jpg)
+    ![/img/shanghutong/sgt_mobile.jpg)
 
